@@ -107,7 +107,7 @@
         for(var index = 0; index < cards.length;index++){
             var card = cards[index];
             if(card.ean == ean) {
-                cards.splice(index);
+                cards.splice(index,1);
                 break;
             }
         }    

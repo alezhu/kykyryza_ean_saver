@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Kykyruza EAN Saver
 // @namespace    https://github.com/alezhu/kykyryza_ean_saver
-// @version      1.1
+// @version      1.1.1
 // @description  Manage kykyruza EAN on login page
 // @author       alezhu
-// @match        https://oplata.kykyryza.ru/personal/pub/Entrance
-// @match        https://classic.oplata.kykyryza.ru/personal/pub/Entrance
+// @match        https://oplata.kykyryza.ru/personal/pub/Entrance*
+// @match        https://classic.oplata.kykyryza.ru/personal/pub/Entrance*
 // @grant        none
 // @source       https://raw.githubusercontent.com/alezhu/kykyryza_ean_saver/master/kykyryza_ean_saver.user.js
 // @updateURL    https://raw.githubusercontent.com/alezhu/kykyryza_ean_saver/master/kykyryza_ean_saver.user.js
